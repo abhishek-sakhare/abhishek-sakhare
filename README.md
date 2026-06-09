@@ -50,7 +50,6 @@ Git • REST APIs • Svelte
 
 ## 🏆 Achievements & Highlights
 - 🥇 Winner at **Arjuna Hackathon (Mental Well-being Project)**
-- 🎯 50+ Days Streak on **LeetCode**
 - 🌐 Built and deployed official **Civil Engineering Department Website (NIT Agartala)**
 - 👨‍💻 Web Development Team Lead – CITC
 
